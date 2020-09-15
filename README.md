@@ -1,4 +1,5 @@
-<h1 align=center><b>Hello World, I am Uguudei👋</b></h1>
+<h2 align=center><b>Hello World</b></h2>
+<h1 align=center><b>I am Uguudei👋</b></h1>
 
 <!--
 **Uguudei/uguudei** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
