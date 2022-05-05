@@ -16,6 +16,6 @@ Here are some ideas to get you started:
 -->
 
 <p float="middle">
-  <img src="https://github-readme-stats.vercel.app/api?username=uguudei&hide_rank=true&count_private=true&hide=stars,prs&hide_title=true&hide_border=false&text_color=ADBAC7&bg_color=22272E&border_color=444C56&icon_color=519BF5&show_icons=true"  width=36%/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=uguudei&exclude_repo=jupyter-notebooks&langs_count=3&hide_title=true&layout=compact&hide_border=false&text_color=ADBAC7&bg_color=22272E&border_color=444C56" width=48%/>
+  <img src="https://github-readme-stats.vercel.app/api?username=uguudei&hide_rank=true&count_private=true&hide=stars,prs&hide_title=true&hide_border=false&text_color=ADBAC7&bg_color=22272E&border_color=444C56&icon_color=519BF5&show_icons=true"  width=39%/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=uguudei&exclude_repo=jupyter-notebooks&langs_count=3&hide_title=true&layout=compact&hide_border=false&text_color=ADBAC7&bg_color=22272E&border_color=444C56" width=52%/>
 </p>
