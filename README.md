@@ -1,7 +1,5 @@
 <h1 align=center><b>Hello, I am Uguudei👋</b></h1>
 
-Welcome
-
 <!-- Light Mode -->
 <div float="middle">
 <a href="https://github.com/Uguudei#gh-light-mode-only">
