@@ -2,10 +2,10 @@
 
 <!-- Light Mode -->
 <div float="middle">
-<a href="https://github.com/Uguudei#gh-dark-mode-only">
+<a href="https://github.com/Uguudei#gh-light-mode-only">
 <img src="https://github-readme-stats.vercel.app/api?username=uguudei&include_orgs=true&include_all_commits=true&hide_rank=false&count_private=true&hide=stars&hide_title=true&hide_border=false&text_color=ADBAC7&bg_color=FFFFFF&border_color=444C56&icon_color=519BF5&show_icons=true#gh-light-mode-only"  width=55.5%/>
 </a>
-<a href="https://github.com/Uguudei#gh-dark-mode-only">
+<a href="https://github.com/Uguudei#gh-light-mode-only">
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=uguudei&include_orgs=true&include_all_commits=true&count_private=true&exclude_repo=jupyter-notebooks&langs_count=6&hide_title=true&layout=compact&hide_border=false&text_color=ADBAC7&bg_color=FFFFFF&border_color=444C56#gh-light-mode-only" width=37%/>
 </a>
 </div>
