@@ -3,7 +3,7 @@
 <!-- Light Mode -->
 <div float="middle">
 <a href="https://github.com/Uguudei#gh-light-mode-only">
-<img src="https://github-readme-stats.vercel.app/api?username=uguudei&include_orgs=true&include_all_commits=true&hide_rank=false&count_private=true&hide=stars&hide_title=true&hide_border=false&show_icons=true&text_bold=false&text_color=24292F&bg_color=FFFFFF&border_color=D0D6DE&icon_color=519BF5#gh-light-mode-only"  width=59.5%/>
+<img src="https://github-readme-stats.vercel.app/api?username=uguudei&include_orgs=true&include_all_commits=true&hide_rank=false&count_private=true&hide=stars&hide_title=true&hide_border=false&show_icons=true&text_bold=false&text_color=24292F&bg_color=FFFFFF&border_color=D0D6DE&icon_color=519BF5#gh-light-mode-only"  width=59.29%/>
 </a>
 <a href="https://github.com/Uguudei#gh-light-mode-only">
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=uguudei&include_orgs=true&include_all_commits=true&count_private=true&exclude_repo=jupyter-notebooks&langs_count=6&hide_title=true&layout=compact&hide_border=false&text_color=24292F&bg_color=FFFFFF&border_color=D0D6DE#gh-light-mode-only" width=39.5%/>
@@ -13,7 +13,7 @@
 <!-- Dark Mode -->
 <div float="middle">
 <a href="https://github.com/Uguudei#gh-dark-mode-only">
-<img src="https://github-readme-stats.vercel.app/api?username=uguudei&include_orgs=true&include_all_commits=true&hide_rank=false&count_private=true&hide=stars&hide_title=true&hide_border=false&text_bold=false&text_color=ADBAC7&bg_color=22272E&border_color=444C56&icon_color=519BF5&show_icons=true#gh-dark-mode-only"  width=59.5%/>
+<img src="https://github-readme-stats.vercel.app/api?username=uguudei&include_orgs=true&include_all_commits=true&hide_rank=false&count_private=true&hide=stars&hide_title=true&hide_border=false&text_bold=false&text_color=ADBAC7&bg_color=22272E&border_color=444C56&icon_color=519BF5&show_icons=true#gh-dark-mode-only"  width=59.29%/>
 <a>
 <a href="https://github.com/Uguudei#gh-dark-mode-only">
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=uguudei&include_orgs=true&include_all_commits=true&count_private=true&exclude_repo=jupyter-notebooks&langs_count=6&hide_title=true&layout=compact&hide_border=false&text_color=ADBAC7&bg_color=22272E&border_color=444C56#gh-dark-mode-only" width=39.5%/>
